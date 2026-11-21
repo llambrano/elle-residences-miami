@@ -1,0 +1,74 @@
+{
+ "01": {
+  "name": "Une 01",
+  "beds": 1,
+  "sf": 610,
+  "en": "elle-residences-miami-une-01-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-01-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-01-planta-um-quarto.pdf"
+ },
+ "02": {
+  "name": "Deux 02",
+  "beds": 2,
+  "sf": 825,
+  "en": "elle-residences-miami-deux-02-two-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-deux-02-plano-dos-habitaciones.pdf",
+  "pt": "elle-residences-miami-deux-02-planta-dois-quartos.pdf"
+ },
+ "03": {
+  "name": "Une 03",
+  "beds": 1,
+  "sf": 540,
+  "en": "elle-residences-miami-une-03-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-03-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-03-planta-um-quarto.pdf"
+ },
+ "04": {
+  "name": "Une 04",
+  "beds": 1,
+  "sf": 540,
+  "en": "elle-residences-miami-une-04-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-04-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-04-planta-um-quarto.pdf"
+ },
+ "05": {
+  "name": "Une 05",
+  "beds": 1,
+  "sf": 540,
+  "en": "elle-residences-miami-une-05-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-05-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-05-planta-um-quarto.pdf"
+ },
+ "06": {
+  "name": "Deux 06",
+  "beds": 2,
+  "sf": 855,
+  "en": "elle-residences-miami-deux-06-two-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-deux-06-plano-dos-habitaciones.pdf",
+  "pt": "elle-residences-miami-deux-06-planta-dois-quartos.pdf"
+ },
+ "07": {
+  "name": "Une 07",
+  "beds": 1,
+  "sf": 620,
+  "en": "elle-residences-miami-une-07-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-07-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-07-planta-um-quarto.pdf"
+ },
+ "08": {
+  "name": "Une 08",
+  "beds": 1,
+  "sf": 450,
+  "en": "elle-residences-miami-une-08-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-08-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-08-planta-um-quarto.pdf"
+ },
+ "09": {
+  "name": "Une 09",
+  "beds": 1,
+  "sf": 450,
+  "en": "elle-residences-miami-une-09-one-bedroom-floor-plan.pdf",
+  "es": "elle-residences-miami-une-09-plano-una-habitacion.pdf",
+  "pt": "elle-residences-miami-une-09-planta-um-quarto.pdf"
+ }
+}
